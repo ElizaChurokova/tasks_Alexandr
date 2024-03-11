@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c22a0e18-f734-4b69-9afd-c306a952afbf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/march7/OOP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/march7/TipyDannyh.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/march7/uslovnyeOperatoryCycleArrays/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/march7/uslovnyeOperatoryCycleArrays/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/march7/uslovnyeOperatoryCycleArrays/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/march7/uslovnyeOperatoryCycleArrays/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/march7/uslovnyeOperatoryCycleArrays/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasks_Alexandr.iml" afterDir="false" />
-    </list>
+    <list default="true" id="c22a0e18-f734-4b69-9afd-c306a952afbf" name="Changes" comment="first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,8 +76,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710177052935</updated>
-      <workItem from="1710177055432" duration="2273000" />
+      <workItem from="1710177055432" duration="2786000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1710179780263</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710179780263</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,5 +101,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
